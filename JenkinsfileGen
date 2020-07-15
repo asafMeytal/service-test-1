@@ -1,2 +1,2 @@
 @Library('shared-lib-test') _
-globalPipelibe()
+globalPipeline()
